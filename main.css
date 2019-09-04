@@ -1,0 +1,11 @@
+.foodList {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    }
+  
+    .squareBox {
+        border: 1px solid rgba(255, 0, 0, 0.959);
+        text-align: center;
+        max-width: 25%;
+    }
